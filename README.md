@@ -179,7 +179,7 @@ work in your projects for long periods of time. This repository contains the col
 
 ## ❤️ Gratitude
 
-My whole appreciation to the tools, projects, and people who makde this project possible:
+My whole appreciation to the tools, projects and people who make this project possible:
 
 - [Catppuccin Theme](https://github.com/catppuccin/catppuccin): For being the project which inspired me to start this repository.
-- All the people who used, ported or likes thi palette.
+- All the people who used, ported or likes this palette.
