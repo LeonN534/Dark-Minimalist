@@ -1,0 +1,74 @@
+colors:
+    primary:
+        background: "#211f27" 
+        foreground: "#e5e5e5" 
+        # Bright and dim foreground 
+        dim_foreground: "#e5e5e5" 
+        bright_foreground: "#e5e5e5" 
+
+    # Cursor colors
+    cursor:
+        text: "#2b2a33" 
+        cursor: "#d0d1d3" 
+    vi_mode_cursor:
+        text: "#2b2a33" 
+        cursor: "#d0d1d3" 
+
+    # Search colors
+    search:
+        matches:
+            foreground: "#2b2a33" 
+            background: "#d0d1d3" 
+        focused_match:
+            foreground: "#2b2a33" 
+            background: "#96f685" 
+        footer_bar:
+            foreground: "#2b2a33" 
+            background: "#b9b9c0" 
+
+    # Keyboard regex hints
+    hints:
+        start:
+            foreground: "#2b2a33" 
+            background: "#f3eb84" 
+        end:
+            foreground: "#2b2a33" 
+            background: "#b9b9c0" 
+
+    # Selection colors
+    selection:
+        text: "#2b2a33" 
+        background: "#d0d1d3" 
+
+    # Normal colors
+    normal:
+        black: "#1c1b22" 
+        red: "#f67d7b" 
+        green: "#96f685" 
+        yellow: "#f3eb84" 
+        blue: "#85bef7" 
+        magenta: "#f7859f" 
+        cyan: "#85f7f1" 
+        white: "#d0d1d3" 
+
+    # Bright colors
+    bright:
+        black: "#1c1b22" 
+        red: "#f67d7b" 
+        green: "#96f685" 
+        yellow: "#f3eb84" 
+        blue: "#85bef7" 
+        magenta: "#f7859f" 
+        cyan: "#85f7f1"
+        white: "#b9b9c0" 
+
+    # Dim colors
+    dim:
+        black: "#1c1b22" 
+        red: "#f67d7b" 
+        green: "#96f685" 
+        yellow: "#f3eb84" 
+        blue: "#85bef7" 
+        magenta: "#f7859f" 
+        cyan: "#85f7f1" 
+        white: "#BAC2DE" 
