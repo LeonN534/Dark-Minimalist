@@ -7,8 +7,8 @@
   <img src="assets/palette/samples/contrast.png" width="400">
 </p>
 
-Dark Minimalist is a dark color palette that aims to provide strong distinguishable colors without tiring the eyes, so you can 
-work in your projects for long periods. This repository contains the colors used and all the ports for programs that allow color customizations.
+Dark Minimalist is a dark color palette that aims to provide strong distinguishable colors that not tire the eyes, so you can 
+work in your projects for long periods of time. This repository contains the colors used in the palette and the ports for all the programs that allow color customizations.
 
 ## 🎨 Colors
 
