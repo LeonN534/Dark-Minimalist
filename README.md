@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-weight: bolder"> 
+<h1 align="center"> 
     <img src="assets/palette/logo/Dark Minimalist logo.png" width="200" alt="Logo"><br/>
     Dark Minimalist
 </h1>
