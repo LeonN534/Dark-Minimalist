@@ -1,6 +1,6 @@
 <h1 style="text-align: center; font-weight: bolder"> 
-    Dark Minimalist<br/>
-    <img src="assets/palette/logo/Dark Minimalist logo.png" width="400" style="border-radius: 50%">
+    <img src="assets/palette/logo/Dark Minimalist logo.png" width="200" alt="Logo"><br/>
+    Dark Minimalist
 </h1>
 
 <p align="center">
