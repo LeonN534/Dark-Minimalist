@@ -1,0 +1,3 @@
+[submodule "ports/vscode"]
+	path = ports/vscode
+	url = https://github.com/LeonN534/Dark-Minimalist-vscode.git
