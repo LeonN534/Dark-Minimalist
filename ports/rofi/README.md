@@ -36,7 +36,7 @@ mkdir .config/rofi
 cp -r Dark-Minimalist/ports/rofi/src/* ~/.config/rofi
 ```
 
-- Delete de undesired configs with the respective script. For example, deleting the power menu config:
+- Delete the undesired configs with the respective script. For example, deleting the power menu config:
 
 ```shell
 cd ~/.config/rofi/
